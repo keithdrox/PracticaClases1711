@@ -26,13 +26,15 @@ procesa la respuesta JSON con `JSONArray` y `JSONObject` y muestra la lista de a
 ## Capturas
 Tabla `alumnos` en Supabase:
 
-![Tabla alumnos](<img width="1365" height="605" alt="captura-supabase-tabla" src="https://github.com/user-attachments/assets/719fcfc9-a0f3-4023-9622-e883fc332be5" />
-)
+![Tabla alumnos]
+<img width="1365" height="605" alt="captura-supabase-tabla" src="https://github.com/user-attachments/assets/5b70d0e6-d33d-4e7d-93ea-5cd195bb500f" />
+
 
 Aplicación en ejecución:
 
-![App en el emulador](<img width="602" height="301" alt="captura-app-emulador" src="https://github.com/user-attachments/assets/ffcc5d90-f6ce-4cfb-a1d8-e7cd936c3b8b" />
-)
+![App en el emulador]
+<img width="602" height="301" alt="captura-app-emulador" src="https://github.com/user-attachments/assets/39d8357c-7729-4d15-bd11-ed0757137b5a" />
+
 
 ## Tecnologías
 Java · Android Studio · Volley 1.2.1 · Supabase (PostgreSQL + REST) · Gradle Kotlin DSL
